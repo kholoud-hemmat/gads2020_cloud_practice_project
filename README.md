@@ -91,10 +91,17 @@ GADS_2020 Phase2 Cloud Practice Project
 
 ## Translation Files
 
-[Getting Started with App Engine](Translation/Getting Started with App Engine.md)
+  <a href="Translation/Getting Started with App Engine.md">
+  Getting Started with App Engine
+  
+  <br/>
+  
+  <a href="Translation/Google Cloud Fundamentals Getting Started with Compute Engine.md">
+  Google Cloud Fundamentals Getting Started with Compute Engine
 
-[Google Cloud Fundamentals Getting Started with Compute Engine](Translation/Google Cloud Fundamentals Getting Started with Compute Engine.md)
-
-[Google Cloud Fundamentals Getting Started with GKE](Translation/Google Cloud Fundamentals Getting Started with GKE.md)
+  <br/>
+  
+  <a href="Translation/Google Cloud Fundamentals Getting Started with GKE.md">
+  Google Cloud Fundamentals Getting Started with GKE
   
   
